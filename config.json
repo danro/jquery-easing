@@ -1,0 +1,6 @@
+{
+  "JAVASCRIPT": {
+    "DIST_DIR": "./",
+    "jquery.easing": ["./jquery.easing.js"]
+  }
+}
