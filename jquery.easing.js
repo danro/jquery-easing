@@ -12,7 +12,7 @@ jQuery.easing['jswing'] = jQuery.easing['swing'];
 
 jQuery.extend( jQuery.easing,
 {
-	// t: current time, b: begInnIng value, c: change In value, d: duration
+	// x: value, t: current time, b: beginning value, c: change in value, d: duration
 	
 	def: 'easeOutQuad',
 	swing: function (x, t, b, c, d) {
